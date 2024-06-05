@@ -86,8 +86,6 @@ This phase focuses on developing the species profile in the Fish-Air dataset by 
 1. Explore the latent space to identify rare shapes and include more examples in the training set.
 2. Train longer with more aggressive data augmentation.
 
-![Next Steps]
-
 ---
 
 This project aims to refine the process of detecting fish midlines for enhanced species profiling, leveraging advanced AI techniques and robust data augmentation strategies to overcome inherent challenges in the dataset.
