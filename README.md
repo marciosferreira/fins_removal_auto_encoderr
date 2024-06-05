@@ -1,4 +1,4 @@
-# Using autoencoder to Efficient Midline Detection for Enhanced Fish Species Profiling in AI Applications
+# Using variational autoencoder to Efficient Midline Detection for Enhanced Fish Species Profiling in AI Applications
 
 ## Authors
 - **Marcio Ferreira**
