@@ -37,13 +37,13 @@ This phase focuses on developing the species profile in the Fish-Air dataset by 
 - Complex backgrounds
 
 ## Approach
-1. **Image Processing**:
+1. **Image Processing (did not work well)**:
    - Subtract background using `rembg`.
    - Binarization and skeletonization using `skimage`.
 
 ![Image Processing](images/image_processing.png)
 
-2. **Autoencoder**:
+2. **Autoencoder (proposed solution)**:
    - Modify images to remove fins (reducing steps and increasing accuracy).
    - Variational autoencoder (VAE) for data generation and modification.
 
