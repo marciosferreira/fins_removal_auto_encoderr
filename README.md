@@ -80,7 +80,7 @@ This phase focuses on developing the species profile in the Fish-Air dataset by 
 - **Testing Prediction**: Often good accuracy, with challenges in rare shapes or positions.
 
 ![Predicted Midline in Test Data](images/predicted_midline_test_data.png)
-![Midline and Original Image Overlap](images/midline_original_overlap.png)
+![Midline and Original Image Overlap](images/original_midline_overlap.png)
 
 ## Next Steps
 1. Explore the latent space to identify rare shapes and include more examples in the training set.
