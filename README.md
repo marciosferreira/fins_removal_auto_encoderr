@@ -82,6 +82,13 @@ This phase focuses on developing the species profile in the Fish-Air dataset by 
 ![Predicted Midline in Test Data](images/predicted_midline_test_data.png)
 ![Midline and Original Image Overlap](images/original_midline_overlap.png)
 
+## Error distribution and Latent space
+- **Error distribution**: Eels present higher error
+- **Latent space**: Rare shapes, like ells, are located far from the average in latent space
+
+![Error distribution and Latent space](images/error_and_latent.png)
+
+  
 ## Next Steps
 1. Explore the latent space to identify rare shapes and include more examples in the training set.
 2. Train longer with more aggressive data augmentation.
