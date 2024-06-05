@@ -86,7 +86,7 @@ This phase focuses on developing the species profile in the Fish-Air dataset by 
 1. Explore the latent space to identify rare shapes and include more examples in the training set.
 2. Train longer with more aggressive data augmentation.
 
-![Next Steps](images/next_steps.png)
+![Next Steps]
 
 ---
 
